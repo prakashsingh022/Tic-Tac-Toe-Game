@@ -38,7 +38,7 @@ A modern, responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript — p
 
 ## 🚀 Live Demo
 
-Play the game online: [Live Demo Link](#)  
+Play the game online: [Live Demo Link](https://prakashsingh022.github.io/Tic-Tac-Toe-Game/)  
 *(Replace # with your deployed link once available)*
 
 ---
@@ -67,8 +67,12 @@ If all 9 squares are filled and no one has 3 in a row, the game is a draw.
 
 Click "Reset Game" to start a new round.
 
+---
+
 🧠 About the Game
 Tic-Tac-Toe, also known as Noughts and Crosses, is a timeless two-player game often played on paper. This digital version replicates that experience using simple web technologies while offering a smooth, interactive interface.
+
+---
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
