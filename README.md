@@ -11,10 +11,8 @@ A modern, responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript — p
 - [⚙️ Features](#️-features)
 - [🚀 Live Demo](#-live-demo)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [📦 Installation](#-installation)
 - [📋 How to Play](#-how-to-play)
 - [🧠 About the Game](#-about-the-game)
-- [📌 License](#-license)
 
 ---
 
@@ -56,17 +54,6 @@ Play the game online: [Live Demo Link](#)
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/tic-tac-toe-js.git
-
-# Navigate to the project folder
-cd tic-tac-toe-js
-
-# Open in your browser
-Open index.html in any browser
 📋 How to Play
 The game is played on a 3×3 grid.
 
